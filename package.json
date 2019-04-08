@@ -1,0 +1,19 @@
+{
+  "name": "carblink",
+  "version": "1.0.0",
+  "flat": true,
+  "description": "carblink  by glyconavi",
+  "main": "index.html",
+  "repository": "https://gitlab.com/glyconavi/wc-carblink",
+  "author": "glyconavi",
+  "license": "Creative Commons",
+  "dependencies": {
+    "@polymer/iron-ajax": "3.0.1",
+    "@polymer/iron-location": "3.0.1",
+    "@polymer/polymer": "3.2.0",
+    "@webcomponents/webcomponentsjs": "1.3.3"
+  },
+  "resolutions": {
+    "@webcomponents/webcomponentsjs": "1.0.20"
+  }
+}

@@ -137,7 +137,7 @@ text-align: right;
 
   ready() {
     super.ready();
-    this.entryPDBE();
+    this.entryPDBJ();
   }
 
   entryPDBJ() {
